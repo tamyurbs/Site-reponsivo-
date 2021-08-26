@@ -1,0 +1,111 @@
+body{
+    background-color:#fff;
+    padding-top: 3.75rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    columns: #787878;
+}
+
+
+.background{
+  width: 100%;
+  height:auto;
+
+}
+.duvidas{
+  font-weight: bold;
+  text-align: center;
+}
+.jumbotrom{
+  display: block;
+  position: relative;
+  top: 400px;
+}
+.display-4{
+  background-color: #022d36;
+  padding: 20px;
+  font-size: 30px;
+  font-family:Georgia, Verdana, sans-serif;
+  color: white;
+}
+.lead{
+  background-color: #1f456e;
+  padding: 20px;
+  font-size: 20px;
+  font-family:Georgia, Verdana, sans-serif;
+  color: white;
+}
+.img{
+  padding: 10px;
+  width: 100%;
+  height: auto;
+}
+.embed-responsive{
+  margin: auto;
+}
+h3{
+  font-weight: bold;
+}
+.titulos{
+  font-weight: bold;
+}
+.bloco{
+  margin: auto;
+}
+.texto1{
+  display: block;
+  position: relative;
+  text-align: justify;
+ 
+}
+.card{
+  margin: auto;
+   width: 100%;
+  height: auto;
+}
+
+.navbar{
+  padding: 0;
+  background-color:#48b9a1;
+  box-shadow: 0 10px 12px rgba(0,0,0,.3);
+}
+
+.navbar-brand{
+  background-color: #137963;
+  text-align: right;
+  min-width: 9rem;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+.nav-link{
+  color: white;
+  display: block;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-transform: uppercase;
+  font-size: .8rem;
+  transition: all .5s ease;
+  font-weight: 600; 
+}
+
+.navbar-nav{
+  background-color:#48b9a1;
+  text-align: center;
+
+}
+
+
+.my-5{
+  font-weight: bold;
+  padding: 20px;
+  margin: auto;
+}
+.button-1{
+  float: right;
+}
+
+
+
+
